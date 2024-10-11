@@ -1,4 +1,4 @@
-#CALCULATOR
+# CALCULATOR
 The Python-based calculator allows you to perform basic arithmetic operations like addition, subtraction, multiplication, and division. It supports continuous calculations with previous results or starting a fresh session, offering a simple and interactive way to handle mathematical operations. Perfect for those looking to understand basic Python function usage and loops, with room for future improvements.
-#PASSWORD GENERATOR
+# PASSWORD GENERATOR
 The Password Generator is a Python-based tool that helps users generate strong, secure, and random passwords. The user specifies how many lowercase letters, uppercase letters, digits, and special symbols they want in their password, and the program randomly generates a password containing these characters. The password is shuffled to ensure randomness and security.
